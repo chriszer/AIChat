@@ -1,0 +1,7 @@
+POST http:localhost:3000/api/chat
+Content-Type: application/json
+
+{
+  "prompt": "What is the capital of France?",
+  "conversationId": "9fa2c926-d539-4c54-a761-28427943036a"
+}
